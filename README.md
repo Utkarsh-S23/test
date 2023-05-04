@@ -4,9 +4,6 @@
 
 Deploy Live Cricket Score API on Heroku and Vercel.  
 
-## About API 🌐
-
-Learn More about the API Here - <https://github.com/mskian/cricket-api>
 
 ## Free Deploy 🍔
 
