@@ -24,9 +24,6 @@ Deploy Live Cricket Score API on Heroku and Vercel.
 
 All Credits Goes to <https://www.cricbuzz.com/>
 
-## My other Projects 🤓
-
--------------------------------------- 
 
 ## LICENSE 📕
 
